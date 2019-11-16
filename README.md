@@ -9,10 +9,9 @@ This is an implementation of deep cascaded regression for anime face landmark de
 - opencv-python
 
 ## Downloads
-Download the checkpoint file from [google drive] (wget https://drive.google.com/open?id=1NckKw7elDjQTllRxttO87WY7cnQwdMqz)and cascade file for face detection from [nagadomi/lbpcascade_animeface](https://github.com/nagadomi/lbpcascade_animeface)
+Download the checkpoint file from [google drive] (https://drive.google.com/open?id=1NckKw7elDjQTllRxttO87WY7cnQwdMqz) and cascade file for face detection from [nagadomi/lbpcascade_animeface](https://github.com/nagadomi/lbpcascade_animeface)
 
 ```
-wget https://drive.google.com/open?id=1NckKw7elDjQTllRxttO87WY7cnQwdMqz
 wget https://raw.githubusercontent.com/nagadomi/lbpcascade_animeface/master/lbpcascade_animeface.xml
 ```
 
